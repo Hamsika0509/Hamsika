@@ -92,3 +92,72 @@ maths problems in monthly events,competitions.<br></p>
 blood donating camps etc... </p>
 
 
+<!DOCTYPE html>
+<title> Portfolio </title>
+<div class="header">
+<head > 
+    
+    <link rel="stylesheet" href="pf.css" >
+    <br>
+    <br>
+    <br> <strong>Hi,  I am Hamsika</strong>
+    <br>
+    <br>
+    <br>
+    <br>
+   
+      <!-- <button type="button" href="exp.html">Click me</button>-->
+</head>
+</div>
+<body style='background-image: url("R.jpg");' >
+    
+    <h2 style="font-size: 1.5em;  color: blue"> About me</h2>
+    <div clas="ab">
+   <p> Hi, my name is <strong>Mannem Hamsika</strong> and I am from Nellore, Andhra Pradesh.I am good at C++ programming along with C, SQL and familiar with the basics of Artificial Intelligence, HTML and CSS and I have good knowledge regarding DSA, DBMS and OOPS concept.</p> </div>
+ <h4 style="font-size: 1.5em;  color: blue">Education</h4>
+ <div class="Education">
+<h5 style="font-size:1em">2020-NOW &nbsp &nbsp &nbsp &nbsp B.Tech</h5>
+I am currently pursuing a Bachelor's degree in Computer Science and Engineering at National Institute of Technology Rourkela. I am a pre-final year student and my current CGPA is 8.55.
+  
+</div>
+<div class="Education1">
+  
+ <h5 style="font-size:1em">2018-2020 &nbsp &nbsp &nbsp &nbsp Intermediate </h5>
+   I had completed my intermediate in Narayana Junior College, Nellore, Andhra Pradesh with 10 CGPA.
+  </div>
+  <div class="Education2">
+  <h5 style="font-size:1em">2017-2018 &nbsp &nbsp &nbsp &nbsp Matriculation </h5>
+   I had completed my Schooling in Vishwam English Medium High School, Kaluvoya with 10 CGPA.
+</div>
+<br>
+<br><br><br>
+<br>
+<br>
+<br><br><br>
+
+
+ 
+<h2>Contact Details</h2>
+<p>
+  <strong>Phone</strong>: +91 9391166496<br>
+  <strong>Email:</strong> hamsikamannem@gmail.com  <br><br>
+
+  KMS Hall, NIT Rourkela.
+</p>
+<footer class="footer">       
+          <div class="inner">
+             <p style="color:blanchedalmond">
+                <br>
+                <br>
+                <br>
+                &nbsp &nbsp &nbsp Copyright&#169; 2022 &nbsp Hamsi. &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<a href="">Privacy Policy</a>
+                <br>
+                <br>
+             </p>
+    </div>
+ </footer>
+
+</body>
+</html>
+
+
