@@ -160,4 +160,40 @@ I am currently pursuing a Bachelor's degree in Computer Science and Engineering 
 </body>
 </html>
 
+.header
+{
+background-color: lightgrey;
+color: deeppink;
+font-size : 25px;
+text-align: center;
+
+}
+.ab{
+    padding-left: 20px;
+    padding-right: 25px;
+}
+.Education{
+    float: left;
+  width: 32%;
+  padding: 5px;
+}
+.Education1{
+    float: left;
+  width: 32%;
+  padding: 5px;
+}
+.Education2{
+    float: left;
+  width: 32%;
+  padding: 5px;
+}
+.experience{
+    text-align: left;
+    padding: 20px;
+    
+}
+.inner{
+    background-color: black;
+}
+
 
