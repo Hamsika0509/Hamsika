@@ -28,7 +28,7 @@ Percentage: 97.8%<br>
     2017-2018<br>
     HIGH SCHOOL<br>
     Vishwam High School, Kaluvoya<br>
-    Bellore<br>
+    Nellore<br>
     CGPA: 10/10<br>
 </p>
 
